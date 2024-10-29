@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chúc chị Sha luôn giữ cho mình tâm hồn của một cô gái 18 :)). Mong rằng tuổi mới sẽ mang đến cho chị thật nhiều niềm vui, hạnh phúc và sang năm lấy chồng :))" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chúc chị Sha luôn giữ cho mình tâm hồn của một cô gái 18 :)). Mong rằng tuổi mới sẽ mang đến cho chị thật nhiều niềm vui, hạnh phúc và sang năm lấy chồng :)). Mãi keo mãi keo!" //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc chị Sha có một ngày sinh nhật đáng nhớ và tràn đầy yêu thương! 🎂🌸🌟" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
