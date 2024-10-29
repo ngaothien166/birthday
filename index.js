@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Chúc chị Sha có một ngày sinh nhật đáng nhớ và tràn đầy yêu thương! 🎂🌸🌟. Mong rằng tuổi mới sẽ mang đến cho chị thật nhiều niềm vui, hạnh phúc và sang năm lấy chồng :)). Mãi keo mãi keo ❤️" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc chị Sha có một ngày sinh nhật đáng nhớ và tràn đầy yêu thương! 🎂🌸🌟" //Nội dung của bức thư
+const mainContentLetter = "Bức thư chan chứa nước mũi và rất cảm lạnh :))" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
