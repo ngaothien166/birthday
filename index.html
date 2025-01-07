@@ -36,10 +36,14 @@
       <label class="designBox" for="mess"></label>
     </div>
   </div>
-  <video id="gift-video" width="640" height="360" controls style="display: none;">
-    <source src="1.mp4" type="video/mp4">
-    Trình duyệt của bạn không hỗ trợ video.
-</video>
+  <audio id="gift-audio" src="1.mp3"></audio>
+
+  <script>
+    document.querySelector(".recieve").addEventListener("click", function () {
+        const audio = document.getElementById("gift-audio");
+        audio.play(); // Phát nhạc
+    });
+  </script>
   <script src="./index.js"></script>
 </body>
 </html>
