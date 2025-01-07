@@ -66,6 +66,11 @@ document.querySelector(".recieve").addEventListener("click", () => {
         }, 500)
     }, 500)
 })
+document.querySelector(".recieve").addEventListener("click", function () {
+    const video = document.getElementById("gift-video");
+    video.style.display = "block"; // Hiển thị video
+    video.play(); // Phát video
+});
 
 // Animation Drop light _ Tạo hiệu ứng kim tuyến rơi
 //Bạn có thể thiết kế lại để trông chân thật hơn nhé, thiết kế của mình hơi bị cứng và thiếu sự tự nhiên
